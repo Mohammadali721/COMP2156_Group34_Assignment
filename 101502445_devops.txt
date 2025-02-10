@@ -1,1 +1,2 @@
 "COMP2156 covers DevOps principles, CI/CD, and automation."
+COMP2156 DevOps course includes CI/CD, automation, and cloud computing.
