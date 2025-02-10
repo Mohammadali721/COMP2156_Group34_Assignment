@@ -1,1 +1,2 @@
 "DevOps improves software development efficiency and collaboration."
+DevOps integrates development and operations for faster software delivery.
