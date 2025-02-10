@@ -1,3 +1,4 @@
 "DevOps improves software development efficiency and collaboration."
 DevOps integrates development and operations for faster software delivery.
 Continuous integration helps detect errors early in the software cycle.
+DevOps enables automated testing to improve software quality.
