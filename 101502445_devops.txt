@@ -1,0 +1,1 @@
+"COMP2156 covers DevOps principles, CI/CD, and automation."
