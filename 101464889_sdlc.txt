@@ -1,3 +1,4 @@
 DevOps is essential in the software development lifecycle as it ensures smooth integration between development and operations teams.
 Expanded discussion on DevOps in SDLC.
 DevOps enables continuous integration, delivery, and deployment in modern software projects.
+
