@@ -1,0 +1,1 @@
+DevOps is crucial in the software development lifecycle (SDLC) as it bridges development and operations, improving efficiency.
