@@ -1,2 +1,3 @@
 DevOps is crucial in the software development lifecycle (SDLC) as it bridges development and operations, improving efficiency.
 By implementing CI/CD pipelines, teams can release software faster and with fewer errors, enhancing overall productivity.
+DevOps culture helps teams adopt Agile methodologies and respond to customer feedback quickly.
