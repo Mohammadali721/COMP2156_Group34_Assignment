@@ -1,1 +1,2 @@
 COMP 3104 - DevOps is a course designed to teach students about continuous integration, deployment, and automation tools.
+More DevOps course details added.
