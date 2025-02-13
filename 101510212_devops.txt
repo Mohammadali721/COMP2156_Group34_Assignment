@@ -1,1 +1,2 @@
 COMP 3104 is a DevOps course that teaches CI/CD, automation, and infrastructure management.
+Students learn tools like Docker, Kubernetes, Jenkins, and Ansible to automate deployment and infrastructure management.
