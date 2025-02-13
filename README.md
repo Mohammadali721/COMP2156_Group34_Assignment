@@ -3,7 +3,8 @@
 - **Leader:** MohammadAli Talaeikhou (101502445) - [GitHub](https://github.com/Mohammadali721)
 - **Member 2:** Dayana Nemati Mahand (101492104) - [GitHub](https://github.com/Dayanamahand)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
-## Project Description
+- **Member 4:** Karman Singh Soni (101510212) 
+4## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
 ## Setup Instructions
