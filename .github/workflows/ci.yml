@@ -1,9 +1,14 @@
+101502445_Mohammadali
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+
+name: GitHub Actions Pipeline
+main
 
 on: [push]
 
 jobs:
+101502445_Mohammadali
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
 
@@ -26,3 +31,21 @@ jobs:
           ls ${{ github.workspace }}
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Print GitHub Event Details
+        run: |
+          echo "Triggered by ${{ github.event_name }}"
+          echo "Running on ${{ runner.os }}"
+
+      - name: List Repository Files
+        run: ls ${{ github.workspace }}
+
+      - name: Job Completion
+        run: echo "CI/CD job completed successfully."
+main
