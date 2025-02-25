@@ -2,3 +2,4 @@
 DevOps integrates development and operations for faster software delivery.
 Continuous integration helps detect errors early in the software cycle.
 DevOps enables automated testing to improve software quality.
+Devops is really important for the future.
