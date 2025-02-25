@@ -2,3 +2,4 @@
 COMP2156 DevOps course includes CI/CD, automation, and cloud computing.
 Version control with Git is an essential part of DevOps practices.
 Infrastructure as Code (IaC) automates server deployment in DevOps.
+I am taking Devops course under Pritesh Patel at George Brown College.
